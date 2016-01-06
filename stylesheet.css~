@@ -22,8 +22,8 @@
 .exp {
     text-indent: -5px;
     display: block;
-    margin: 0px;
-    padding-left: 0px;
+    margin: 20px;
+    padding-left: 100px;
 }
 
 li {
