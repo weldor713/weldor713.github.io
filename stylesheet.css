@@ -1,0 +1,47 @@
+.jumbotron {
+    text-align: center;
+}
+
+.tech {
+    text-align: left;
+    text-indent: 20%;
+}
+
+.prof {
+    text-align: left;
+    text-indent: 20%;
+}
+
+.table-responsive {
+    overflow-x: auto;
+}
+.table-responsive td, .table-responsive th {
+    white-space: nowrap;
+}
+
+.exp {
+    text-indent: -5px;
+    display: block;
+    margin: 20px;
+    padding-left: 100px;
+}
+
+li {
+    margin-left: 7em
+}
+
+.bolds {
+    font-weight: bold;
+}
+
+.table {
+    display:table;
+}
+
+.table-row {
+    display:table-row;
+}
+
+.table-cell {
+    display:table-cell;
+}
