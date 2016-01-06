@@ -4,13 +4,9 @@
         <title>Anthony S Gallagher</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<<<<<<< HEAD
-        <link rel="stylesheet" type="text/css" href="stylesheet.css">
 
-=======
         <link rel="stylesheet" type="text/css" href="weldor713.github.io/stylesheet.css">
-        <!--
->>>>>>> b2a2c6a26247894cfdb2ff51057a761479a4f536
+
         <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 
         <!--
