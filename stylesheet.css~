@@ -1,3 +1,4 @@
+
 .jumbotron {
     text-align: center;
 }
@@ -22,8 +23,8 @@
 .exp {
     text-indent: -5px;
     display: block;
-    margin: 20px;
-    padding-left: 100px;
+    margin: 0px;
+    padding-left: 0px;
 }
 
 li {
@@ -44,4 +45,9 @@ li {
 
 .table-cell {
     display:table-cell;
+}
+
+body {
+    background: linen;
+    background-image: url(../css/fresh_snow.png);
 }
