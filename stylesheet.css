@@ -6,11 +6,13 @@
 .tech {
     text-align: left;
     text-indent: 20%;
+    white-space: nowrap;
 }
 
 .prof {
     text-align: left;
     text-indent: 20%;
+    white-space: nowrap;
 }
 
 .table-responsive {
