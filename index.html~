@@ -54,7 +54,9 @@
 
         <div class="prof">
             <h3>Professional Experience</h3>
-            <hr style="width: 80%">
+        </div>
+        <hr style="width: 80%">
+        <div class="prof">
             <div class="container">
                 <div class="table-responsive">
                     <div class="container-fluid">
@@ -68,182 +70,183 @@
                         </div>
                     </div>
                 </div>
-
-                <div class="container">
-                    <div class="col-xs-12 col-xs-offset-0 col-md-8 col-md-offset-2">
-                        <ul class="exp" >
-                            <li>Java Language Fundamentals - variable declaration, looping constructs, conditional statements, class modeling, exception handling, unit testing and n-tier application.</li>
-                            <li>Web Development Fundamentals - Spring MVC, HTML, CSS, JavaScript, and jQuery.</li>
-                            <li>Database Fundamentals - MySQL, Query Writing, Table Creation, Spring JDBC.</li>
-                            <li>Revision control using Bitbucket and Github.
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <br>
-        <br>
-        <div class="prof">
-            <div class="container">
-                <div class="table-responsive">
-                    <div class="container-fluid">
-                        <div class="row">
-                            <div class="col-xs-12 col-md-6"><b>Hamon Deltak</b></div>
-                            <div class="col-xs-12 col-md-6">Plymouth, MN</div>
-                        </div>
-                        <div class="row">
-                            <div class="col-xs-12 col-md-6">Welder</div>
-                            <div class="col-xs-12 col-md-6">2008-2009 & 2013-2015</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-
-        <div class="container">
-            <div class="col-xs-12 col-xs-offset-0 col-md-8 col-md-offset-2">
-                <ul class="exp">
-                    <li>Welding - tig, mig, fluxcore</li>
-                    <li>Cutting - Oxygen/Acetylene, plasma</li>
-                    <li>Blueprint reading</li>
-                    <li>ASME certified welder</li>
-                </ul>
-            </div>
-        </div>
-        <br>
-        <br>
-        <div class="prof">
-            <div class="container">
-                <div class="table-responsive">
-                    <div class="container-fluid">
-                        <div class="row">
-                            <div class="col-xs-12 col-md-6"><b>Zalusky Advanced Riding School</b></div>
-                            <div class="col-xs-12 col-md-6">Minneapolis, MN</div>
-                        </div>
-                        <div class="row">
-                            <div class="col-xs-12 col-md-6">Coach,Instructor,Control Rider, Safety</div>
-                            <div class="col-xs-12 col-md-6">2008 - 2016</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-
-        <div class="container">
-            <div class="col-xs-12 col-xs-offset-0 col-md-8 col-md-offset-2">
-                <ul class="exp">
-                    <li>Instruct motorcycle riders on how to be a more skilled riders</li>
-                    <li>Track day control rider to insure safety of other riders</li>
-                    <li>General Track Safety</li>
-                </ul>
-            </div>
-        </div>
-        <br>
-        <br>
-
-        <div class="prof">
-            <div class="container">
-                <div class="table-responsive">
-                    <div class="container-fluid">
-                        <div class="row">
-                            <div class="col-xs-12 col-md-6"><b>Caterpiller</b></div>
-                            <div class="col-xs-12 col-md-6">Brooklyn Park, MN</div>
-                        </div>
-                        <div class="row">
-                            <div class="col-xs-12 col-md-6">Welder</div>
-                            <div class="col-xs-12 col-md-6">2010-2013</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="col-xs-12 col-xs-offset-0 col-md-8 col-md-offset-2">
-                <ul class="exp">
-                    <li>Welding - mig: GMAW, GMAW-P</li>
-                    <li>Blueprint reading</li>
-                    <li>Safety Committee</li>
-                    <li>Lean/Sigma6, Standardized work</li>
-                </ul>
-            </div>
-        </div>
-        <br>
-        <br>
-        <div class="prof">
-            <div class="container">
-                <div class="table-responsive">
-                    <div class="container-fluid">
-                        <div class="row">
-                            <div class="col-xs-12 col-md-6"><b>JohnRyan Performance</b></div>
-                            <div class="col-xs-12 col-md-6">Minneapolis, MN</div>
-                        </div>
-                        <div class="row">
-                            <div class="col-xs-12 col-md-6">Warehouse Manager/Install Manager/Installer</div>
-                            <div class="col-xs-12 col-md-6">1995-2006</div>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
 
         <div class="container">
             <div class="col-xs-12 col-xs-offset-0 col-md-8 col-md-offset-2">
                 <ul class="exp">
-                    <li>Warehouse operations. Hiring, firing, training, supervision of staff</li>
-                    <li>Inventory Control, Shipping/Receiving, manage shipping vendors</li>
-                    <li>Install Management. Scheduling, meeting deadlines, budgets, supplies and logistics</li>
-                    <li>Installer. Team memeber/team leader for retail POS installation of fixtures and graphics</li>
+                    <li>Java Language Fundamentals - variable declaration, looping constructs, conditional statements, class modeling, exception handling, unit testing and n-tier application.</li>
+                    <li>Web Development Fundamentals - Spring MVC, HTML, CSS, JavaScript, and jQuery.</li>
+                    <li>Database Fundamentals - MySQL, Query Writing, Table Creation, Spring JDBC.</li>
+                    <li>Revision control using Bitbucket and Github.
                 </ul>
-
             </div>
         </div>
-        <br>
-        <br>
-        <div class="tech">
-            <h3 >Education</h3>
-            <hr style="width: 80%">
-        </div>
-
-        <div class="tech">
-            <div class="container">
-                <div class="table-responsive">
-                    <div class="container-fluid">
-                        <div class="row">
-                            <div class="col-xs-12 col-md-6"><b>Concordia/The Software Guild</b></div>
-                            <div class="col-xs-12 col-md-6">Minneapolis, MN</div>
-                        </div>
-                        <div class="row">
-                            <div class="col-xs-12 col-md-6">Java Apprentice</div>
-                            <div class="col-xs-12 col-md-6">Fall 2015</div>
-                        </div>
+    </div>
+    <br>
+    <br>
+    <div class="prof">
+        <div class="container">
+            <div class="table-responsive">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-6"><b>Hamon Deltak</b></div>
+                        <div class="col-xs-12 col-md-6">Plymouth, MN</div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12 col-md-6">Welder</div>
+                        <div class="col-xs-12 col-md-6">2008-2009 & 2013-2015</div>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
 
-        <br>
-        <br>
-        <div class="prof">
-            <div class="container">
-                <div class="table-responsive">
-                    <div class="container-fluid">
-                        <div class="row">
-                            <div class="col-xs-12 col-md-6"><b>Minneapolis Comm and Tech College</b></div>
-                            <div class="col-xs-12 col-md-6">Minneapolis, MN</div>
-                        </div>
-                        <div class="row">
-                            <div class="col-xs-12 col-md-6">Welding Program Certificate</div>
-                            <div class="col-xs-12 col-md-6">2007-2008</div>
-                        </div>
+
+
+    <div class="container">
+        <div class="col-xs-12 col-xs-offset-0 col-md-8 col-md-offset-2">
+            <ul class="exp">
+                <li>Welding - tig, mig, fluxcore</li>
+                <li>Cutting - Oxygen/Acetylene, plasma</li>
+                <li>Blueprint reading</li>
+                <li>ASME certified welder</li>
+            </ul>
+        </div>
+    </div>
+    <br>
+    <br>
+    <div class="prof">
+        <div class="container">
+            <div class="table-responsive">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-6"><b>Zalusky Advanced Riding School</b></div>
+                        <div class="col-xs-12 col-md-6">Minneapolis, MN</div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12 col-md-6">Coach,Instructor,Control Rider, Safety</div>
+                        <div class="col-xs-12 col-md-6">2008 - 2016</div>
                     </div>
                 </div>
             </div>
         </div>
-        <br>
-        <br>
-    </body>
+    </div>
+
+
+
+    <div class="container">
+        <div class="col-xs-12 col-xs-offset-0 col-md-8 col-md-offset-2">
+            <ul class="exp">
+                <li>Instruct motorcycle riders on how to become more skilled riders</li>
+                <li>Track day control rider to insure safety of other riders</li>
+                <li>General Track Safety</li>
+            </ul>
+        </div>
+    </div>
+    <br>
+    <br>
+
+    <div class="prof">
+        <div class="container">
+            <div class="table-responsive">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-6"><b>Caterpiller</b></div>
+                        <div class="col-xs-12 col-md-6">Brooklyn Park, MN</div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12 col-md-6">Welder</div>
+                        <div class="col-xs-12 col-md-6">2010-2013</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="col-xs-12 col-xs-offset-0 col-md-8 col-md-offset-2">
+            <ul class="exp">
+                <li>Welding - mig: GMAW, GMAW-P</li>
+                <li>Blueprint reading</li>
+                <li>Safety Committee</li>
+                <li>Lean/Sigma6, Standardized work</li>
+            </ul>
+        </div>
+    </div>
+    <br>
+    <br>
+    <div class="prof">
+        <div class="container">
+            <div class="table-responsive">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-6"><b>JohnRyan Performance</b></div>
+                        <div class="col-xs-12 col-md-6">Minneapolis, MN</div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12 col-md-6">Warehouse Manager/Install Manager/Installer</div>
+                        <div class="col-xs-12 col-md-6">1995-2006</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="col-xs-12 col-xs-offset-0 col-md-8 col-md-offset-2">
+            <ul class="exp">
+                <li>Warehouse operations. Hiring, firing, training, supervision of staff</li>
+                <li>Inventory Control, Shipping/Receiving, manage shipping vendors</li>
+                <li>Install Management. Scheduling, meeting deadlines, budgets, supplies and logistics</li>
+                <li>Installer. Team memeber/team leader for retail POS installation of fixtures and graphics</li>
+            </ul>
+
+        </div>
+    </div>
+    <br>
+    <br>
+    <div class="tech">
+        <h3 >Education</h3>
+        <hr style="width: 80%">
+    </div>
+
+    <div class="tech">
+        <div class="container">
+            <div class="table-responsive">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-6"><b>Concordia/The Software Guild</b></div>
+                        <div class="col-xs-12 col-md-6">Minneapolis, MN</div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12 col-md-6">Java Apprentice</div>
+                        <div class="col-xs-12 col-md-6">Fall 2015</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <br>
+    <br>
+    <div class="prof">
+        <div class="container">
+            <div class="table-responsive">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-6"><b>Minneapolis Comm and Tech College</b></div>
+                        <div class="col-xs-12 col-md-6">Minneapolis, MN</div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12 col-md-6">Welding Program Certificate</div>
+                        <div class="col-xs-12 col-md-6">2007-2008</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <br>
+</body>
 </html>
