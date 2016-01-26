@@ -1,2 +1,2 @@
 # weldor713.github.io
-resume
+My responsive HTML resume.  
